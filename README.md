@@ -47,7 +47,8 @@ $ make:my-validator "pas un iso code"
 
 ## Rendu
 
-24/11/2023
+Paris: 24/11/2023
+Bordeaux: 01/12/2023
 
 Ajoutez ce profile github en temps que maintainer, je ne regarderai pas les push apres le 24/11/2023
 
