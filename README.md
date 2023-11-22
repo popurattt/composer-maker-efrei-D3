@@ -53,3 +53,5 @@ Bordeaux: 01/12/2023
 
 
 Ajoutez ce profile github en temps que maintainer, je ne regarderai pas les push apres la date de rendu
+
+Si impossible d'utiliser git, zipper le projet, **SANS LE DOSSIER VENDOR** et envoyé le a pmabounda@wedigital.garden
